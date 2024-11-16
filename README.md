@@ -1,7 +1,7 @@
 - 👋 its @shortgoblin
 - 🌷 I’m interested in website design and architecture
 - 🌱 I’m currently learning html, CSS, markdown
-- 📫 scream into the void and i shall be there (or check at heimao-tingzi on neocities)
+- 📫 scream into the void and i shall be there
 - 🐈 meow meow meow
 
 <!---
